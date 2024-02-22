@@ -67,3 +67,8 @@ Want to create your own module? Check out the [Modules page](https://hodgef.com/
 
 PRs and issues are always welcome. Feel free to submit any issues you have at:
 [https://github.com/hodgef/simple-keyboard/issues](https://github.com/hodgef/simple-keyboard/issues)
+
+
+## 🤝 Acknowledgement
+
+This software includes fragments of code from the library [XRegexp](https://github.com/slevithan/xregexp), most specifically it uses the addOn function `matchRecursive` to detect button grouping.
